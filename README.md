@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Celine2803
 - 👀 I’m interested in coding and qualified for front end developer
-- 🌱 I’m currently coding and dveloping in HTML,CSS,BOOTSTRAP and JAVASCRIPT
+- 🌱 I’m currently coding and dveloping in HTML,CSS,BOOTSTRAP , JAVASCRIPT and REACTJS
 - 💞️ I’m looking to collaborate on JAVASCRIPT
 - 📫 How to reach me twitter@celine-kerubo
 
